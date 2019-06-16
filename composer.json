@@ -1,0 +1,21 @@
+{
+    "name": "sinevia/php-library-events",
+    "description": "PHP Library Events",
+    "type": "library",
+    "keywords": ["events", "library", "php", "sinevia"],    
+    "homepage": "http://github.com/sinevia/php-library-events",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Milan Lesichkov",
+            "email": "lesichkovm@gmail.com",
+            "homepage": "http://lesichkov.co.uk",
+            "role": "Lead Developer"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/Events.php"
+        ]
+    }
+}
